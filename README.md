@@ -2,7 +2,7 @@
 [mon cv](https://diogomamartins.github.io/monCV/)
 
 This Curriculum as written by me,to understand grid,at BECODE
-![How its look](photo.png)
+![How its look](cv.png)
 
 
 
